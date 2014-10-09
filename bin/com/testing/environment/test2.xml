@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<company>
+        <staff>
+		<age>34</age>
+		<innerNode>nodeData</innerNode>
+        </staff>
+</company>

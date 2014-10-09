@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<company>
+        <staff>
+            <name>john</name>
+            <phone>465456433</phone>
+            <email>gmail1</email>
+		<address>hyderabad</address>
+		<company>wegilant</company>
+        </staff>
+</company>
